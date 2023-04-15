@@ -12,7 +12,6 @@
 
 # Package Files #
 *.idea
-*.gradle
 *.jar
 *.war
 *build
